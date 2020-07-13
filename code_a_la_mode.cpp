@@ -5,10 +5,6 @@ const int H = 7, W = 11;
 const string DISH = "DISH", ICE_CREAM = "ICE_CREAM", 
     BLUEBERRIES = "BLUEBERRIES", NONE = "NONE";
 vector<string> Grid(H);
-/**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
- **/
 struct Customer{
     string order;
     int award;
